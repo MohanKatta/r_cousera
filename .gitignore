@@ -1,0 +1,5 @@
+.RData
+.Rhistory
+assignment_1/specdata/*.csv
+assignment_1/specdata.zip
+assignment_1/*.pdf
